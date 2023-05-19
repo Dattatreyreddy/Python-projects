@@ -1,3 +1,3 @@
 # Python-projects
-10 Basic Python Programs
-These are the 10 basic programs in python. 
+Basic Python Programs
+These are the basic programs in python. Super market billing project and qr code scanner is the best projects in the entire programs. 
